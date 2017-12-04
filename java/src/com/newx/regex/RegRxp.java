@@ -1,4 +1,4 @@
-package com.newx.reg;
+package com.newx.regex;
 
 public class RegRxp {
 

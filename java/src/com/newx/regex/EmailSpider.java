@@ -1,4 +1,4 @@
-package com.newx.reg;
+package com.newx.regex;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
