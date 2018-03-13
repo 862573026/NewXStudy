@@ -2,7 +2,8 @@ package com.newx.algorithm.AtOffer.List;
 
 //import static Utils.RandomCreate.createNum; //此种import
 
-import Utils.RandomCreate;
+
+import com.newx.algorithm.Utils.RandomCreate;
 
 /**
  * Created by Administrator on 2017/4/1.

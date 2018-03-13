@@ -1,7 +1,8 @@
 package com.newx.algorithm.AtOffer.Array;
 
-import Utils.PrintUtils;
-import Utils.RandomCreate;
+
+import com.newx.algorithm.Utils.PrintUtils;
+import com.newx.algorithm.Utils.RandomCreate;
 
 import java.util.ArrayList;
 import java.util.Arrays;

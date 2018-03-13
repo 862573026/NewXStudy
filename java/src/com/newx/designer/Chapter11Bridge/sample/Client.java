@@ -1,7 +1,8 @@
 package com.newx.designer.Chapter11Bridge.sample;
 
-import com.designer.Chapter11Bridge.sample.color.Color;
-import com.designer.Chapter11Bridge.sample.pen.Pen;
+
+import com.newx.designer.Chapter11Bridge.sample.color.Color;
+import com.newx.designer.Chapter11Bridge.sample.pen.Pen;
 
 /**
  * Created by Xuzhijian on 2017/11/20 0020.

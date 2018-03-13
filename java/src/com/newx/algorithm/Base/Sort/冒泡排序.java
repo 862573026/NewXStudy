@@ -1,7 +1,8 @@
 package com.newx.algorithm.Base.Sort;
 
-import Utils.PrintUtils;
-import Utils.RandomCreate;
+
+import com.newx.algorithm.Utils.PrintUtils;
+import com.newx.algorithm.Utils.RandomCreate;
 
 /**
  * Created by Administrator on 2017/3/28.
